@@ -13,3 +13,6 @@ https://docs.aws.amazon.com/cognito-user-identity-pools/latest/APIReference/API_
 ###Important
 IF alias_attribute is not working the you can use "username_attributes"
 username_attributes = "email, phone_number"
+
+###FOR SCOPES
+https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-social-idp.html#cognito-user-pools-social-idp-step-2
